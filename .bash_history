@@ -42,3 +42,42 @@ git branch feature
 git checkout master
 /
 sudo su
+cd
+cd
+git init
+git config user.name " jakia "
+git config user.email "jakia122gmail.com"
+git add .
+git commit -m " new files added "
+git branch feature
+git branch
+vi f1.sh
+git commit -m " edited in branch "
+git add .
+git commit -m " edited in branch "
+git commit --amend
+git remo
+git remote
+git remote --version
+git branch
+git push origin master
+git remote add origin https://github.com/Jakiaanjum/mocktest.git
+git push origin master
+git rm f2.sh
+chmod -R 777 /home/ec2user
+cd 
+git rm f2.sh
+ls
+git branch
+cd dir2
+cd ..
+cd dir2
+cd ..
+su ec2user
+cd ..
+cd ..
+cd ..
+git branch
+cd /
+git branch
+sudo su
